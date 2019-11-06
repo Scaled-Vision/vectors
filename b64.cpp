@@ -1,3 +1,7 @@
+//
+// Test program for base64.hpp
+//
+
 #include <iostream>
 #include <math.h>
 #include <time.h>
